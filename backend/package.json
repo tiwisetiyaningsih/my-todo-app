@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "type": "module",
   "dependencies": {
-    "mysql2": "latest",
-    "jsonwebtoken": "latest",
-    "bcryptjs": "latest"
+    "mysql2": "^3.9.0",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2"
   }
 }
