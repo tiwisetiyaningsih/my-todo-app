@@ -1,13 +1,10 @@
 {
-  "name": "todo-backend-vercel",
+  "name": "todo-backend",
   "version": "1.0.0",
   "type": "module",
-  "scripts": {
-    "start": "vercel dev"
-  },
   "dependencies": {
-    "bcryptjs": "^2.4.3",
-    "jsonwebtoken": "^9.0.2",
-    "mysql2": "^3.6.0"
+    "mysql2": "latest",
+    "jsonwebtoken": "latest",
+    "bcryptjs": "latest"
   }
 }
